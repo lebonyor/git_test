@@ -1,0 +1,4 @@
+Hi, 
+I am Rashed Hasan
+This is my first git and github project. 
+Thanks to the Odin Project team for everything!
